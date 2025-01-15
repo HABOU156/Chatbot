@@ -16,14 +16,15 @@ Ce projet implémente un chatbot en français utilisant des techniques de traite
 - pip (gestionnaire de paquets Python)
 
 
-## 💻 Utilisation
-Pour lancer le chatbot en mode interactif :
-   
-   ```bash
-      pip install Flask pandas
+# Installation des dépendances
 
+Installez les bibliothèques nécessaires avec la commande suivante :
+
+```bash
+pip install Flask pandas
 
 Exemple d'interaction :
+
    Chatbot: Bonjour! Comment puis-je vous aider?
    Vous: Salut!
    Chatbot: Bonjour!
