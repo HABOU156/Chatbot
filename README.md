@@ -19,23 +19,15 @@ Ce projet implémente un chatbot en français utilisant des techniques de traite
 # Installation des dépendances
 
 Installez les bibliothèques nécessaires avec la commande suivante :
-
 ```bash
-pip install Flask pandas
+   pip install Flask pandas
 
-Exemple d'interaction :
 
-   Chatbot: Bonjour! Comment puis-je vous aider?
-   Vous: Salut!
-   Chatbot: Bonjour!
-   Vous: Au revoir
-   Chatbot: À bientôt!
 
-## 🧪 Tests
 
-Pour exécuter les tests :
-   ```bash
-   python -m unittest test_chatbot.py
+
+
+
 
 
 
